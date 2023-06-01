@@ -1,11 +1,12 @@
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
 }
 
 body {
-    margin: 0
+    margin: 0;
 }
 
 #myVideo {
@@ -20586,3 +20587,4 @@ footer .footer-social .copyright {
     margin-bottom: 20px;
     text-align: center
 }
+
