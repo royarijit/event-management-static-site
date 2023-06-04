@@ -15573,7 +15573,7 @@ body *:focus {
     line-height: 40px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    content: "+";
+    content: "H";
     position: fixed;
     font-size: 40px;
     left: 50%;
